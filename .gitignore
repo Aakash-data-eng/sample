@@ -49,7 +49,6 @@ commands.md
 legacy_archive/
 _legacy_archive/
 _project_cleanup_archive/
-STOCKS Nifty 50/
 
 # Large ML model artifacts
 globalpulse-backend/app/data/stocks/models/*.pkl
