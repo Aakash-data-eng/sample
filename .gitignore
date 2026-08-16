@@ -34,7 +34,11 @@ build/
 *.h5py
 *.pt
 *.pth
+# CSV files are generally ignored, but allow important project datasets below
 *.csv
+
+# Exceptions: keep these dataset files tracked
+!STOCKS Nifty 50/merged_data/*.csv
 
 # IDE & System
 .vscode/
